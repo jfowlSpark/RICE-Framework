@@ -43,3 +43,10 @@ The purpose of open-sourcing this framework is to:
 
 This work is released under the [MIT License](./LICENSE).  
 You may use, adapt, and distribute it freely with proper attribution to **Jeffrey Fowler**.
+
+## How to Attribute
+
+If you use or reference the RICE Framework in your work, a simple attribution is appreciated. For example:
+
+> RICE Framework (Role, Instruction, Context, Examples) by Jeffrey Fowler, released under the MIT License.
+
